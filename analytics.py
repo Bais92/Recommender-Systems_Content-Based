@@ -65,6 +65,7 @@ def jaccard_score_dataframe(current_item: np.array,
         df = df.loc[:, df.loc["user input"] == 1]
         weights = df.loc["weights"].astype(int)
     df.drop(["weights"], inplace=True)
+    df.drop(["user input"], inplace=True)
     # Calculate all pairwise distances
     distances = pdist(df.values, metric=algorithm, w=weights)
     # Convert the distances to a square matrix

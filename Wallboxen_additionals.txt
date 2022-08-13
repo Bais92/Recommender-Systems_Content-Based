@@ -1,0 +1,99 @@
+                                      ausseneinsatz    key   rfid  app_steuerung  mid_or_eich  \
+abl-emh1-11-kw                                    1   True  False          False            0
+abl-emh1-basic-11-kw                              1   True  False          False            0
+abl-wallbox-ehm3-twin-3w2214                      1  False   True          False            0
+abl-wallbox-emh1-22-kw                            1   True  False          False            0
+abl-wallbox-emh1-basic-22-kw                      1   True  False          False            0
+evbox-elvi-sim-mid-11-kw                          1  False   True           True            1
+evbox-elvi-sim-mid-22-kw                          1  False   True           True            1
+evbox-elvi-wlan-11kw                              1  False   True           True            0
+evbox-elvi-wlan-mid-11-kw                         1  False   True           True            0
+go-e-charger-gemini-11-kw                         1  False   True          False            0
+go-e-charger-gemini-flex-11-kw                    1  False   True           True            0
+go-e-charger-gemini-flex-22-kw                    1  False   True          False            0
+go-echarger-homefix-11-kw                         1  False   True           True            0
+go-echarger-home-plus-11-kw                       1  False   True          False            0
+go-echarger-home-plus-22-kw                       1  False   True          False            0
+heidelberg-energy-control-11-kw                   1  False  False          False            0
+heidelberg-energy-control-11-kw-75-M              1  False  False          False            0
+heidelberg-home-eco-11-kw                         1  False  False          False            0
+heidelberg-home-eco-11-kw-75-m                    1  False  False          False            0
+webasto-next-wallbox-11-kw-45-m                   1  False   True           True            0
+webasto-next-wallbox-11-kw-7-m                    1  False  False           True            0
+webasto-pure-ii-wallbox-11-kw                     1   True  False          False            0
+webasto-pure-ii-wallbox-11-kw-7-m                 1   True  False          False            0
+
+                                      ladeleistung_11kw  ladeleistung_22kw   umts    lan   wlan  \
+abl-emh1-11-kw                                     True              False  False  False  False
+abl-emh1-basic-11-kw                               True              False  False  False  False
+abl-wallbox-ehm3-twin-3w2214                       True               True  False  False  False
+abl-wallbox-emh1-22-kw                            False               True  False  False  False
+abl-wallbox-emh1-basic-22-kw                      False               True  False  False  False
+evbox-elvi-sim-mid-11-kw                           True              False   True  False   True
+evbox-elvi-sim-mid-22-kw                          False               True   True  False   True
+evbox-elvi-wlan-11kw                               True              False  False  False   True
+evbox-elvi-wlan-mid-11-kw                          True              False  False  False   True
+go-e-charger-gemini-11-kw                          True              False  False  False   True
+go-e-charger-gemini-flex-11-kw                     True              False  False  False   True
+go-e-charger-gemini-flex-22-kw                    False               True  False  False   True
+go-echarger-homefix-11-kw                          True              False  False  False   True
+go-echarger-home-plus-11-kw                        True              False  False  False   True
+go-echarger-home-plus-22-kw                       False               True  False  False   True
+heidelberg-energy-control-11-kw                    True              False  False  False  False
+heidelberg-energy-control-11-kw-75-M               True              False  False  False  False   
+heidelberg-home-eco-11-kw                          True              False  False  False  False
+heidelberg-home-eco-11-kw-75-m                     True              False  False  False  False
+webasto-next-wallbox-11-kw-45-m                    True              False  False   True   True
+webasto-next-wallbox-11-kw-7-m                     True              False  False   True   True
+webasto-pure-ii-wallbox-11-kw                      True              False  False  False  False
+webasto-pure-ii-wallbox-11-kw-7-m                  True              False  False  False  False
+
+                                      foerderung  dcfs_integrateded  cable_length_no_cable  \
+abl-emh1-11-kw                              True               True                      0
+abl-emh1-basic-11-kw                        True               True                      0
+abl-wallbox-ehm3-twin-3w2214                True               True                      1
+abl-wallbox-emh1-22-kw                      True               True                      0
+abl-wallbox-emh1-basic-22-kw                True               True                      0
+evbox-elvi-sim-mid-11-kw                    True               True                      0
+evbox-elvi-sim-mid-22-kw                    True               True                      0
+evbox-elvi-wlan-11kw                        True               True                      0
+evbox-elvi-wlan-mid-11-kw                   True               True                      0
+go-e-charger-gemini-11-kw                  False               True                      1
+go-e-charger-gemini-flex-11-kw             False               True                      1
+go-e-charger-gemini-flex-22-kw             False               True                      1
+go-echarger-homefix-11-kw                   True               True                      1
+go-echarger-home-plus-11-kw                False               True                      1
+go-echarger-home-plus-22-kw                False               True                      1
+heidelberg-energy-control-11-kw             True               True                      0
+heidelberg-energy-control-11-kw-75-M        True               True                      0
+heidelberg-home-eco-11-kw                  False               True                      0
+heidelberg-home-eco-11-kw-75-m             False               True                      0
+webasto-next-wallbox-11-kw-45-m             True               True                      0
+webasto-next-wallbox-11-kw-7-m              True               True                      0
+webasto-pure-ii-wallbox-11-kw              False               True                      0
+webasto-pure-ii-wallbox-11-kw-7-m          False               True                      0
+
+                                      cable_length_4m  cable_length_6m  cable_length_7m_plus
+abl-emh1-11-kw                                      0                1                     0
+abl-emh1-basic-11-kw                                0                1                     0
+abl-wallbox-ehm3-twin-3w2214                        1                0                     0
+abl-wallbox-emh1-22-kw                              0                1                     0
+abl-wallbox-emh1-basic-22-kw                        0                1                     0
+evbox-elvi-sim-mid-11-kw                            0                1                     0
+evbox-elvi-sim-mid-22-kw                            0                1                     0
+evbox-elvi-wlan-11kw                                0                1                     0
+evbox-elvi-wlan-mid-11-kw                           0                1                     0
+go-e-charger-gemini-11-kw                           1                0                     0
+go-e-charger-gemini-flex-11-kw                      1                0                     0
+go-e-charger-gemini-flex-22-kw                      1                0                     0
+go-echarger-homefix-11-kw                           1                0                     0
+go-echarger-home-plus-11-kw                         1                0                     0
+go-echarger-home-plus-22-kw                         1                0                     0
+heidelberg-energy-control-11-kw                     0                0                     0
+heidelberg-energy-control-11-kw-75-M                0                0                     1
+heidelberg-home-eco-11-kw                           0                0                     0
+heidelberg-home-eco-11-kw-75-m                      0                0                     1
+webasto-next-wallbox-11-kw-45-m                     0                0                     0
+webasto-next-wallbox-11-kw-7-m                      0                0                     1
+webasto-pure-ii-wallbox-11-kw                       0                0                     0
+webasto-pure-ii-wallbox-11-kw-7-m                   0                0                     1

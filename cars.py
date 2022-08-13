@@ -12,6 +12,8 @@ prices = pd.read_csv("C://Users/SDietzel/Documents/EinfachEAuto/Website/API/carp
 
 df = df.reset_index().merge(prices, how="inner", on="minpreis").set_index('index')
 
+df.drop(columns=['minpreis','class_reichweite', 'reichweite_epa'], axis=1)
+
 needed_values = [
     'class_sitzplaetze_2',
     'class_sitzplaetze_4',
@@ -25,9 +27,6 @@ needed_values = [
     'class_tag_cargo_high',
     'class_tag_seat_high',
     'class_tag_tech_high',
-    'minpreis',
-    'class_reichweite',
-    'reichweite_epa',
     'class_form_city',
     'class_form_small',
     'class_form_compact',
@@ -53,9 +52,9 @@ user_input = np.array(
         0,  # 'class_tag_cargo_high',
         0,  # 'class_tag_seat_high',
         0,  # 'class_tag_tech_high',
-        300,  # 'minpreis',
-        0,  # 'class_reichweite',
-        0,  # 'reichweite_epa',
+        # 300,  # 'minpreis',
+        # 0,  # 'class_reichweite',
+        # 0,  # 'reichweite_epa',
         1,  # 'class_form_city',
         0,  # 'class_form_small',
         0,  # 'class_form_compact',
@@ -85,8 +84,8 @@ score1 = jaccard_score_dataframe(
     drop_na_input=False,
 )
 
-sorted_score = score.loc["user input"].sort_values(ascending=False)
-sorted_score_1 = score1.loc["user input"].sort_values(ascending=False)
+sorted_score = score.loc["Opel-Corsa-E-Standard"].sort_values(ascending=False)
+sorted_score_1 = score1.loc["Opel-Corsa-E-Standard"].sort_values(ascending=False)
 
 print("cosing drop Na", sorted_score)
 print("cosing drop not Na",sorted_score_1)
