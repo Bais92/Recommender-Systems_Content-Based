@@ -15,3 +15,6 @@ https://www.rdocumentation.org/packages/StatMatch/versions/1.2.0/topics/gower.di
 Discussions and forums
 --------
 https://datascience.stackexchange.com/questions/22/k-means-clustering-for-mixed-numeric-and-categorical-data
+
+
+https://campus.datacamp.com/courses/building-recommendation-engines-in-python/content-based-recommendations?ex=9
