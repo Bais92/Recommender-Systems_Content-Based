@@ -1,0 +1,451 @@
+	class_sitzplaetze_2	class_sitzplaetze_4	class_sitzplaetze_5	class_sitzplaetze_7	class_stauraum	class_langstrecke	class_tag_park_easy	class_tag_sporty	class_tag_luxury_high	class_tag_cargo_high	class_tag_seat_high	class_tag_tech_high	minpreis	class_reichweite	reichweite_epa	class_form_city	class_form_small	class_form_compact	class_form_suv	class_form_limousine	class_form_combi	class_form_convertible	class_form_sports_car	class_form_van
+50-quattro-54	0	1	1	0	1	1	0	0	0	0	0	1		1	388	0	0	0	0	0	0	0	0	0
+50-quattro-54	0	1	1	0	1	1	0	0	0	0	1	0		1	388	0	0	0	0	0	0	0	0	0
+50-quattro-54	0	1	1	0	1	1	0	0	0	1	0	0		1	388	0	0	0	0	0	0	0	0	0
+50-quattro-54	0	1	1	0	1	1	0	0	1	0	0	0		1	388	0	0	0	0	0	0	0	0	0
+50-quattro-54	0	1	1	0	1	1	0	1	0	0	0	0		1	388	0	0	0	0	0	0	0	0	0
+aiways-u5-premium	0	1	1	0	1	1	0	0	0	0	0	1		1	340	0	0	0	0	0	0	0	0	0
+aiways-u5-premium	0	1	1	0	1	1	0	0	0	0	1	0		1	340	0	0	0	0	0	0	0	0	0
+aiways-U5-Standard	0	1	1	0	1	1	0	0	0	0	0	1		1	349	0	0	0	0	0	0	0	0	0
+aiways-U5-Standard	0	1	1	0	1	1	0	0	0	0	1	0		1	349	0	0	0	0	0	0	0	0	0
+Audi-e-tron-50-quattro	0	1	1	0	1	1	0	0	0	0	0	1		1	262	0	0	0	0	0	0	0	0	0
+Audi-e-tron-50-quattro	0	1	1	0	1	1	0	0	0	0	1	0		1	262	0	0	0	0	0	0	0	0	0
+Audi-e-tron-50-quattro	0	1	1	0	1	1	0	0	0	1	0	0		1	262	0	0	0	0	0	0	0	0	0
+Audi-e-tron-50-quattro	0	1	1	0	1	1	0	0	1	0	0	0		1	262	0	0	0	0	0	0	0	0	0
+Audi-e-tron-50-quattro	0	1	1	0	1	1	0	1	0	0	0	0		1	262	0	0	0	0	0	0	0	0	0
+Audi-e-tron55-quattro	0	1	1	0	1	1	0	0	0	0	0	1		1	357	0	0	0	0	0	0	0	0	0
+Audi-e-tron55-quattro	0	1	1	0	1	1	0	0	0	0	1	0		1	357	0	0	0	0	0	0	0	0	0
+Audi-e-tron55-quattro	0	1	1	0	1	1	0	0	0	1	0	0		1	357	0	0	0	0	0	0	0	0	0
+Audi-e-tron55-quattro	0	1	1	0	1	1	0	0	1	0	0	0		1	357	0	0	0	0	0	0	0	0	0
+Audi-e-tron55-quattro	0	1	1	0	1	1	0	1	0	0	0	0		1	357	0	0	0	0	0	0	0	0	0
+audi-e-tron-gt-quattro	0	1	1	0	1	1	0	0	0	0	0	1		1	468	0	0	0	0	0	0	0	0	0
+audi-e-tron-gt-quattro	0	1	1	0	1	1	0	0	1	0	0	0		1	468	0	0	0	0	0	0	0	0	0
+audi-e-tron-gt-quattro	0	1	1	0	1	1	0	1	0	0	0	0		1	468	0	0	0	0	0	0	0	0	0
+audi-e-tron-gt-rs	0	1	1	0	1	1	0	0	0	0	0	1		1	416	0	0	0	0	0	0	0	0	0
+audi-e-tron-gt-rs	0	1	1	0	1	1	0	0	1	0	0	0		1	416	0	0	0	0	0	0	0	0	0
+audi-e-tron-gt-rs	0	1	1	0	1	1	0	1	0	0	0	0		1	416	0	0	0	0	0	0	0	0	0
+audi-etron-S	0	1	1	0	1	1	0	0	0	0	0	1		1	330	0	0	0	0	0	0	0	0	0
+audi-etron-S	0	1	1	0	1	1	0	0	0	0	1	0		1	330	0	0	0	0	0	0	0	0	0
+audi-etron-S	0	1	1	0	1	1	0	0	1	0	0	0		1	330	0	0	0	0	0	0	0	0	0
+audi-etron-S	0	1	1	0	1	1	0	1	0	0	0	0		1	330	0	0	0	0	0	0	0	0	0
+Audi-e-tron-Sportback-50-quattro	0	1	1	0	1	1	0	0	0	0	0	1		1	266	0	0	0	0	0	0	0	0	0
+Audi-e-tron-Sportback-50-quattro	0	1	1	0	1	1	0	0	0	0	1	0		1	266	0	0	0	0	0	0	0	0	0
+Audi-e-tron-Sportback-50-quattro	0	1	1	0	1	1	0	0	0	1	0	0		1	266	0	0	0	0	0	0	0	0	0
+Audi-e-tron-Sportback-50-quattro	0	1	1	0	1	1	0	0	1	0	0	0		1	266	0	0	0	0	0	0	0	0	0
+Audi-e-tron-Sportback-50-quattro	0	1	1	0	1	1	0	1	0	0	0	0		1	266	0	0	0	0	0	0	0	0	0
+Audi-e-tron-Sportback-55-quattro	0	1	1	0	1	1	0	0	0	0	0	1		1	351	0	0	0	0	0	0	0	0	0
+Audi-e-tron-Sportback-55-quattro	0	1	1	0	1	1	0	0	0	0	1	0		1	351	0	0	0	0	0	0	0	0	0
+Audi-e-tron-Sportback-55-quattro	0	1	1	0	1	1	0	0	0	1	0	0		1	351	0	0	0	0	0	0	0	0	0
+Audi-e-tron-Sportback-55-quattro	0	1	1	0	1	1	0	0	1	0	0	0		1	351	0	0	0	0	0	0	0	0	0
+Audi-e-tron-Sportback-55-quattro	0	1	1	0	1	1	0	1	0	0	0	0		1	351	0	0	0	0	0	0	0	0	0
+Audi-etron-Sportback-S	0	1	1	0	1	1	0	0	0	0	0	1		1	330	0	0	0	0	0	0	0	0	0
+Audi-etron-Sportback-S	0	1	1	0	1	1	0	0	0	0	1	0		1	330	0	0	0	0	0	0	0	0	0
+Audi-etron-Sportback-S	0	1	1	0	1	1	0	0	1	0	0	0		1	330	0	0	0	0	0	0	0	0	0
+Audi-etron-Sportback-S	0	1	1	0	1	1	0	1	0	0	0	0		1	330	0	0	0	0	0	0	0	0	0
+audi-q4-etron-35	0	1	1	0	1	1	0	0	0	0	0	1	369.0	1	271	0	0	0	0	0	0	0	0	0
+audi-q4-etron-35	0	1	1	0	1	1	0	0	0	0	1	0	369.0	1	271	0	0	0	0	0	0	0	0	0
+audi-q4-etron-35	0	1	1	0	1	1	0	0	0	1	0	0	369.0	1	271	0	0	0	0	0	0	0	0	0
+audi-q4-etron-35	0	1	1	0	1	1	0	0	1	0	0	0	369.0	1	271	0	0	0	0	0	0	0	0	0
+audi-q4-etron-40	0	1	1	0	1	1	0	0	0	0	0	1		1	414	0	0	0	0	0	0	0	0	0
+audi-q4-etron-40	0	1	1	0	1	1	0	0	0	0	1	0		1	414	0	0	0	0	0	0	0	0	0
+audi-q4-etron-40	0	1	1	0	1	1	0	0	0	1	0	0		1	414	0	0	0	0	0	0	0	0	0
+audi-q4-etron-40	0	1	1	0	1	1	0	0	1	0	0	0		1	414	0	0	0	0	0	0	0	0	0
+audi-q4-etron-45-quattro	0	1	1	0	1	1	0	0	0	0	0	1		1	389	0	0	0	0	0	0	0	0	0
+audi-q4-etron-45-quattro	0	1	1	0	1	1	0	0	0	0	1	0		1	389	0	0	0	0	0	0	0	0	0
+audi-q4-etron-45-quattro	0	1	1	0	1	1	0	0	0	1	0	0		1	389	0	0	0	0	0	0	0	0	0
+audi-q4-etron-45-quattro	0	1	1	0	1	1	0	0	1	0	0	0		1	389	0	0	0	0	0	0	0	0	0
+audi-q4-sportback-etron-35	0	1	1	0	1	1	0	0	0	0	0	1		1	279	0	0	0	0	0	0	0	0	0
+audi-q4-sportback-etron-35	0	1	1	0	1	1	0	0	0	0	1	0		1	279	0	0	0	0	0	0	0	0	0
+audi-q4-sportback-etron-35	0	1	1	0	1	1	0	0	1	0	0	0		1	279	0	0	0	0	0	0	0	0	0
+audi-q4-sportback-etron-40	0	1	1	0	1	1	0	0	0	0	0	1		1	427	0	0	0	0	0	0	0	0	0
+audi-q4-sportback-etron-40	0	1	1	0	1	1	0	0	0	0	1	0		1	427	0	0	0	0	0	0	0	0	0
+audi-q4-sportback-etron-40	0	1	1	0	1	1	0	0	1	0	0	0		1	427	0	0	0	0	0	0	0	0	0
+audi-q4-sportback-etron-50-quattro	0	1	1	0	1	1	0	0	0	0	0	1		1	398	0	0	0	0	0	0	0	0	0
+audi-q4-sportback-etron-50-quattro	0	1	1	0	1	1	0	0	0	0	1	0		1	398	0	0	0	0	0	0	0	0	0
+audi-q4-sportback-etron-50-quattro	0	1	1	0	1	1	0	0	1	0	0	0		1	398	0	0	0	0	0	0	0	0	0
+audi-q4-sportback-etron-50-quattro	0	1	1	0	1	1	0	1	0	0	0	0		1	398	0	0	0	0	0	0	0	0	0
+BMW-i3-120-Ah	0	1	0	0	1	1	0	0	0	0	1	0		1	246	0	0	0	0	0	0	0	0	0
+BMW-i3-120-Ah	0	1	0	0	1	1	1	0	0	0	0	0		1	246	0	0	0	0	0	0	0	0	0
+BMW-i3-s-120-Ah	0	1	0	0	1	1	0	0	0	0	1	0		1	232	0	0	0	0	0	0	0	0	0
+BMW-i3-s-120-Ah	0	1	0	0	1	1	0	1	0	0	0	0		1	232	0	0	0	0	0	0	0	0	0
+BMW-i3-s-120-Ah	0	1	0	0	1	1	1	0	0	0	0	0		1	232	0	0	0	0	0	0	0	0	0
+bmw-i4-edrive40	0	1	1	0	1	1	0	0	0	0	0	1	585.0	1	482	0	0	0	0	0	0	0	0	0
+bmw-i4-edrive40	0	1	1	0	1	1	0	0	1	0	0	0	585.0	1	482	0	0	0	0	0	0	0	0	0
+bmw-i4-edrive40	0	1	1	0	1	1	0	1	0	0	0	0	585.0	1	482	0	0	0	0	0	0	0	0	0
+bmw-i4-m50	0	1	1	0	1	1	0	0	0	0	0	1	749.0	1	418	0	0	0	0	0	0	0	0	0
+bmw-i4-m50	0	1	1	0	1	1	0	0	1	0	0	0	749.0	1	418	0	0	0	0	0	0	0	0	0
+bmw-i4-m50	0	1	1	0	1	1	0	1	0	0	0	0	749.0	1	418	0	0	0	0	0	0	0	0	0
+bmw-i7-xdrive60	0	1	1	0	1	1	0	0	0	0	0	1		1	491	0	0	0	0	0	0	0	0	0
+bmw-i7-xdrive60	0	1	1	0	1	1	0	0	1	0	0	0		1	491	0	0	0	0	0	0	0	0	0
+bmw-i7-xdrive60	0	1	1	0	1	1	0	1	0	0	0	0		1	491	0	0	0	0	0	0	0	0	0
+bmw-ix1-xdrive30	0	1	1	0	1	1	0	0	0	0	0	1		1	355	0	0	0	0	0	0	0	0	0
+bmw-ix1-xdrive30	0	1	1	0	1	1	0	0	0	0	1	0		1	355	0	0	0	0	0	0	0	0	0
+bmw-ix1-xdrive30	0	1	1	0	1	1	0	0	1	0	0	0		1	355	0	0	0	0	0	0	0	0	0
+bmw-ix3	0	1	1	0	1	1	0	0	0	0	0	1	535.0	1	387	0	0	0	0	0	0	0	0	0
+bmw-ix3	0	1	1	0	1	1	0	0	0	0	1	0	535.0	1	387	0	0	0	0	0	0	0	0	0
+bmw-ix3	0	1	1	0	1	1	0	0	1	0	0	0	535.0	1	387	0	0	0	0	0	0	0	0	0
+bmw-ix-M60	0	1	1	0	1	1	0	0	0	0	0	1		1	450	0	0	0	0	0	0	0	0	0
+bmw-ix-M60	0	1	1	0	1	1	0	0	0	0	1	0		1	450	0	0	0	0	0	0	0	0	0
+bmw-ix-M60	0	1	1	0	1	1	0	0	1	0	0	0		1	450	0	0	0	0	0	0	0	0	0
+bmw-ix-M60	0	1	1	0	1	1	0	1	0	0	0	0		1	450	0	0	0	0	0	0	0	0	0
+bmw-ix-xDrive40	0	1	1	0	1	1	0	0	0	0	0	1	999.0	1	374	0	0	0	0	0	0	0	0	0
+bmw-ix-xDrive40	0	1	1	0	1	1	0	0	0	0	1	0	999.0	1	374	0	0	0	0	0	0	0	0	0
+bmw-ix-xDrive40	0	1	1	0	1	1	0	0	1	0	0	0	999.0	1	374	0	0	0	0	0	0	0	0	0
+bmw-ix-xDrive50	0	1	1	0	1	1	0	0	0	0	0	1		1	521	0	0	0	0	0	0	0	0	0
+bmw-ix-xDrive50	0	1	1	0	1	1	0	0	0	0	1	0		1	521	0	0	0	0	0	0	0	0	0
+bmw-ix-xDrive50	0	1	1	0	1	1	0	0	1	0	0	0		1	521	0	0	0	0	0	0	0	0	0
+bmw-ix-xDrive50	0	1	1	0	1	1	0	1	0	0	0	0		1	521	0	0	0	0	0	0	0	0	0
+citroen-e-c4	0	1	1	0	1	1	0	0	0	0	0	1	315.0	1	303	0	0	0	0	0	0	0	0	0
+citroen-e-c4	0	1	1	0	1	1	0	0	0	0	1	0	315.0	1	303	0	0	0	0	0	0	0	0	0
+cupra-born-58-kwh	0	1	1	0	1	1	0	0	0	0	0	1		1	329	0	0	0	0	0	0	0	0	0
+cupra-born-58-kwh	0	1	1	0	1	1	0	0	0	0	1	0		1	329	0	0	0	0	0	0	0	0	0
+cupra-born-58-kwh	0	1	1	0	1	1	1	0	0	0	0	0		1	329	0	0	0	0	0	0	0	0	0
+cupra-born-58-kwh-e-boost	0	1	1	0	1	1	0	0	0	0	0	1		1	323	0	0	0	0	0	0	0	0	0
+cupra-born-58-kwh-e-boost	0	1	1	0	1	1	0	0	0	0	1	0		1	323	0	0	0	0	0	0	0	0	0
+cupra-born-58-kwh-e-boost	0	1	1	0	1	1	1	0	0	0	0	0		1	323	0	0	0	0	0	0	0	0	0
+cupra-born-77-kwh-e-boost	0	1	1	0	1	1	0	0	0	0	0	1		1	422	0	0	0	0	0	0	0	0	0
+cupra-born-77-kwh-e-boost	0	1	1	0	1	1	0	0	0	0	1	0		1	422	0	0	0	0	0	0	0	0	0
+cupra-born-77-kwh-e-boost	0	1	1	0	1	1	1	0	0	0	0	0		1	422	0	0	0	0	0	0	0	0	0
+dacia-spring-electric	0	1	0	0	1	0	1	0	0	0	0	0		1	196	0	0	0	0	0	0	0	0	0
+DS-3-Crossback-E-Tense-Standard	0	1	1	0	1	1	0	0	0	0	1	0	387.0	1	272	0	0	0	0	0	0	0	0	0
+ev60-220hp-64	0	1	1	0	1	1	0	0	0	0	0	1		1	360	0	0	0	0	0	0	0	0	0
+ev60-220hp-64	0	1	1	0	1	1	0	0	0	0	1	0		1	360	0	0	0	0	0	0	0	0	0
+ev60-220hp-64	0	1	1	0	1	1	1	0	0	0	0	0		1	360	0	0	0	0	0	0	0	0	0
+fiat-500e-3-1	0	1	0	0	0	1	1	0	0	0	0	0		1	259	0	0	0	0	0	0	0	0	0
+fiat-500e-cabrio	0	1	0	0	0	1	1	0	0	0	0	0	379.0	1	253	0	0	0	0	0	0	0	0	0
+fiat-500e-limousine	0	1	0	0	0	1	1	0	0	0	0	0	319.0	1	264	0	0	0	0	0	0	0	0	0
+fiat-500e-limousine-action	0	1	0	0	0	0	1	0	0	0	0	0		1	153	0	0	0	0	0	0	0	0	0
+ford-mustang-mach-e-awd-er	0	1	1	0	1	1	0	0	0	0	0	1		1	435	0	0	0	0	0	0	0	0	0
+ford-mustang-mach-e-awd-er	0	1	1	0	1	1	0	0	0	0	1	0		1	435	0	0	0	0	0	0	0	0	0
+ford-mustang-mach-e-awd-er	0	1	1	0	1	1	0	0	1	0	0	0		1	435	0	0	0	0	0	0	0	0	0
+ford-mustang-mach-e-awd-er	0	1	1	0	1	1	0	1	0	0	0	0		1	435	0	0	0	0	0	0	0	0	0
+Ford-Mustang-Mach-E-AWD-SR	0	1	1	0	1	1	0	0	0	0	0	1		1	338	0	0	0	0	0	0	0	0	0
+Ford-Mustang-Mach-E-AWD-SR	0	1	1	0	1	1	0	0	0	0	1	0		1	338	0	0	0	0	0	0	0	0	0
+Ford-Mustang-Mach-E-AWD-SR	0	1	1	0	1	1	0	0	1	0	0	0		1	338	0	0	0	0	0	0	0	0	0
+Ford-Mustang-Mach-E-AWD-SR	0	1	1	0	1	1	0	1	0	0	0	0		1	338	0	0	0	0	0	0	0	0	0
+ford-mustang-mach-e-er	0	1	1	0	1	1	0	0	0	0	0	1		1	483	0	0	0	0	0	0	0	0	0
+ford-mustang-mach-e-er	0	1	1	0	1	1	0	0	0	0	1	0		1	483	0	0	0	0	0	0	0	0	0
+ford-mustang-mach-e-er	0	1	1	0	1	1	0	0	1	0	0	0		1	483	0	0	0	0	0	0	0	0	0
+ford-mustang-mach-e-gt	0	1	1	0	1	1	0	0	0	0	0	1		1	402	0	0	0	0	0	0	0	0	0
+ford-mustang-mach-e-gt	0	1	1	0	1	1	0	0	0	0	1	0		1	402	0	0	0	0	0	0	0	0	0
+ford-mustang-mach-e-gt	0	1	1	0	1	1	0	0	1	0	0	0		1	402	0	0	0	0	0	0	0	0	0
+ford-mustang-mach-e-gt	0	1	1	0	1	1	0	1	0	0	0	0		1	402	0	0	0	0	0	0	0	0	0
+Ford-Mustang-Mach-E-SR	0	1	1	0	1	1	0	0	0	0	0	1		1	370	0	0	0	0	0	0	0	0	0
+Ford-Mustang-Mach-E-SR	0	1	1	0	1	1	0	0	0	0	1	0		1	370	0	0	0	0	0	0	0	0	0
+Ford-Mustang-Mach-E-SR	0	1	1	0	1	1	0	0	1	0	0	0		1	370	0	0	0	0	0	0	0	0	0
+Honda-E-Advance	0	1	0	0	0	0	1	0	0	0	0	0		1	198	0	0	0	0	0	0	0	0	0
+Honda-E-Standard	0	1	0	0	0	0	0	1	0	0	0	0		1	198	0	0	0	0	0	0	0	0	0
+Honda-E-Standard	0	1	0	0	0	0	1	0	0	0	0	0		1	198	0	0	0	0	0	0	0	0	0
+hyundai-ioniq-5-58-kwh-2wd	0	1	1	0	1	1	0	0	0	0	0	1	352.0	1	326	0	0	0	0	0	0	0	0	0
+hyundai-ioniq-5-58-kwh-2wd	0	1	1	0	1	1	0	0	0	0	1	0	352.0	1	326	0	0	0	0	0	0	0	0	0
+hyundai-ioniq-5-58-kwh-2wd	0	1	1	0	1	1	0	0	0	1	0	0	352.0	1	326	0	0	0	0	0	0	0	0	0
+hyundai-ioniq-5-58-kwh-4wd	0	1	1	0	1	1	0	0	0	0	0	1		1	306	0	0	0	0	0	0	0	0	0
+hyundai-ioniq-5-58-kwh-4wd	0	1	1	0	1	1	0	0	0	0	1	0		1	306	0	0	0	0	0	0	0	0	0
+hyundai-ioniq-5-58-kwh-4wd	0	1	1	0	1	1	0	0	0	1	0	0		1	306	0	0	0	0	0	0	0	0	0
+hyundai-ioniq-5-72-kwh-2wd	0	1	1	0	1	1	0	0	0	0	0	1		1	383	0	0	0	0	0	0	0	0	0
+hyundai-ioniq-5-72-kwh-2wd	0	1	1	0	1	1	0	0	0	0	1	0		1	383	0	0	0	0	0	0	0	0	0
+hyundai-ioniq-5-72-kwh-2wd	0	1	1	0	1	1	0	0	0	1	0	0		1	383	0	0	0	0	0	0	0	0	0
+hyundai-ioniq-5-72-kwh-4wd	0	1	1	0	1	1	0	0	0	0	0	1		1	366	0	0	0	0	0	0	0	0	0
+hyundai-ioniq-5-72-kwh-4wd	0	1	1	0	1	1	0	0	0	0	1	0		1	366	0	0	0	0	0	0	0	0	0
+hyundai-ioniq-5-72-kwh-4wd	0	1	1	0	1	1	0	0	0	1	0	0		1	366	0	0	0	0	0	0	0	0	0
+hyundai-ioniq-5-72-kwh-4wd	0	1	1	0	1	1	0	1	0	0	0	0		1	366	0	0	0	0	0	0	0	0	0
+Hyundai-Ioniq-Elektro	0	1	1	0	1	0	0	0	0	1	0	0	256.0	1	274	0	0	0	0	0	0	0	0	0
+Hyundai-Ioniq-Elektro	0	1	1	0	1	0	1	0	0	0	0	0	256.0	1	274	0	0	0	0	0	0	0	0	0
+Hyundai-Kona-Elektro-39-kWh	0	1	1	0	1	1	0	0	0	0	1	0	259.0	1	281	0	0	0	0	0	0	0	0	0
+Hyundai-Kona-Elektro-39-kWh	0	1	1	0	1	1	1	0	0	0	0	0	259.0	1	281	0	0	0	0	0	0	0	0	0
+Hyundai-Kona-Elektro-64-kWh	0	1	1	0	1	1	0	0	0	0	1	0		1	445	0	0	0	0	0	0	0	0	0
+Hyundai-Kona-Elektro-64-kWh	0	1	1	0	1	1	1	0	0	0	0	0		1	445	0	0	0	0	0	0	0	0	0
+jaguar-i-pace-ev320-sondermodell	0	1	1	0	1	1	0	0	0	0	1	0		1	377	0	0	0	0	0	0	0	0	0
+jaguar-i-pace-ev320-sondermodell	0	1	1	0	1	1	0	0	1	0	0	0		1	377	0	0	0	0	0	0	0	0	0
+Jaguar-I-Pace-EV400	0	1	1	0	1	1	0	0	0	0	1	0	599.0	1	377	0	0	0	0	0	0	0	0	0
+Jaguar-I-Pace-EV400	0	1	1	0	1	1	0	0	0	1	0	0	599.0	1	377	0	0	0	0	0	0	0	0	0
+Jaguar-I-Pace-EV400	0	1	1	0	1	1	0	0	1	0	0	0	599.0	1	377	0	0	0	0	0	0	0	0	0
+Jaguar-I-Pace-EV400	0	1	1	0	1	1	0	1	0	0	0	0	599.0	1	377	0	0	0	0	0	0	0	0	0
+Kia-e-Niro-39-kwh	0	1	1	0	1	1	0	0	0	0	1	0		1	248	0	0	0	0	0	0	0	0	0
+Kia-e-Niro-39-kwh	0	1	1	0	1	1	0	0	0	1	0	0		1	248	0	0	0	0	0	0	0	0	0
+Kia-e-Niro-39-kwh	0	1	1	0	1	1	1	0	0	0	0	0		1	248	0	0	0	0	0	0	0	0	0
+Kia-e-Niro-64-kWh	0	1	1	0	1	1	0	0	0	0	1	0		1	385	0	0	0	0	0	0	0	0	0
+Kia-e-Niro-64-kWh	0	1	1	0	1	1	0	0	0	1	0	0		1	385	0	0	0	0	0	0	0	0	0
+Kia-e-Niro-64-kWh	0	1	1	0	1	1	1	0	0	0	0	0		1	385	0	0	0	0	0	0	0	0	0
+Kia-e-Soul-39-kWh	0	1	1	0	1	1	1	0	0	0	0	0		1	239	0	0	0	0	0	0	0	0	0
+Kia-e-Soul-64-kWh	0	1	1	0	1	1	0	0	0	0	1	0	319.0	1	391	0	0	0	0	0	0	0	0	0
+Kia-e-Soul-64-kWh	0	1	1	0	1	1	1	0	0	0	0	0	319.0	1	391	0	0	0	0	0	0	0	0	0
+kia-ev6-58-kwh-rwd	0	1	1	0	1	1	0	0	0	0	0	1		1	335	0	0	0	0	0	0	0	0	0
+kia-ev6-58-kwh-rwd	0	1	1	0	1	1	0	0	0	1	0	0		1	335	0	0	0	0	0	0	0	0	0
+kia-ev6-77-kwh-awd	0	1	1	0	1	1	0	0	0	0	0	1		1	411	0	0	0	0	0	0	0	0	0
+kia-ev6-77-kwh-awd	0	1	1	0	1	1	0	0	0	1	0	0		1	411	0	0	0	0	0	0	0	0	0
+kia-ev6-77-kwh-awd	0	1	1	0	1	1	0	1	0	0	0	0		1	411	0	0	0	0	0	0	0	0	0
+kia-ev6-77-kwh-rwd	0	1	1	0	1	1	0	0	0	0	0	1		1	428	0	0	0	0	0	0	0	0	0
+kia-ev6-77-kwh-rwd	0	1	1	0	1	1	0	0	0	1	0	0		1	428	0	0	0	0	0	0	0	0	0
+kia-ev6-gt	0	1	1	0	1	1	0	0	0	0	0	1		1	360	0	0	0	0	0	0	0	0	0
+kia-ev6-gt	0	1	1	0	1	1	0	0	0	1	0	0		1	360	0	0	0	0	0	0	0	0	0
+kia-ev6-gt	0	1	1	0	1	1	0	1	0	0	0	0		1	360	0	0	0	0	0	0	0	0	0
+kia-niro-ev-64-kwh	0	1	1	0	1	1	0	0	0	0	0	1		1	394	0	0	0	0	0	0	0	0	0
+kia-niro-ev-64-kwh	0	1	1	0	1	1	0	0	0	0	1	0		1	394	0	0	0	0	0	0	0	0	0
+kia-niro-ev-64-kwh	0	1	1	0	1	1	1	0	0	0	0	0		1	394	0	0	0	0	0	0	0	0	0
+lexus-rz-450e	0	1	1	0	1	1	0	0	0	0	0	1		1	320	0	0	0	0	0	0	0	0	0
+lexus-rz-450e	0	1	1	0	1	1	0	0	0	0	1	0		1	320	0	0	0	0	0	0	0	0	0
+lexus-ux-300e	0	1	1	0	1	0	0	0	0	0	1	0		1	259	0	0	0	0	0	0	0	0	0
+mazda-mx-30	0	1	1	0	1	0	0	0	0	0	1	0		1	160	0	0	0	0	0	0	0	0	0
+mazda-mx-30	0	1	1	0	1	0	0	0	1	0	0	0		1	160	0	0	0	0	0	0	0	0	0
+mercedes-benz-eqa-250	0	1	1	0	1	1	0	0	0	0	1	0	585.0	1	362	0	0	0	0	0	0	0	0	0
+mercedes-benz-eqa-250	0	1	1	0	1	1	0	0	1	0	0	0	585.0	1	362	0	0	0	0	0	0	0	0	0
+mercedes-benz-eqa-250-plus	0	1	1	0	1	1	0	0	0	0	0	1		1	459	0	0	0	0	0	0	0	0	0
+mercedes-benz-eqa-250-plus	0	1	1	0	1	1	0	0	0	0	1	0		1	459	0	0	0	0	0	0	0	0	0
+mercedes-benz-eqa-250-plus	0	1	1	0	1	1	0	0	1	0	0	0		1	459	0	0	0	0	0	0	0	0	0
+mercedes-benz-eqa-300-4matic	0	1	1	0	1	1	0	0	0	0	0	1		1	348	0	0	0	0	0	0	0	0	0
+mercedes-benz-eqa-300-4matic	0	1	1	0	1	1	0	0	0	0	1	0		1	348	0	0	0	0	0	0	0	0	0
+mercedes-benz-eqa-300-4matic	0	1	1	0	1	1	0	0	1	0	0	0		1	348	0	0	0	0	0	0	0	0	0
+mercedes-benz-eqa-350-4matic	0	1	1	0	1	1	0	0	0	0	0	1		1	340	0	0	0	0	0	0	0	0	0
+mercedes-benz-eqa-350-4matic	0	1	1	0	1	1	0	0	0	0	1	0		1	340	0	0	0	0	0	0	0	0	0
+mercedes-benz-eqa-350-4matic	0	1	1	0	1	1	0	0	1	0	0	0		1	340	0	0	0	0	0	0	0	0	0
+mercedes-benz-eqa-350-4matic	0	1	1	0	1	1	0	1	0	0	0	0		1	340	0	0	0	0	0	0	0	0	0
+mercedes-benz-eqb-250	0	0	0	1	1	1	0	0	0	0	0	1	479.0	1	349	0	0	0	0	0	0	0	0	0
+mercedes-benz-eqb-250	0	0	0	1	1	1	0	0	0	0	1	0	479.0	1	349	0	0	0	0	0	0	0	0	0
+mercedes-benz-eqb-250	0	0	0	1	1	1	0	0	0	1	0	0	479.0	1	349	0	0	0	0	0	0	0	0	0
+mercedes-benz-eqb-250	0	0	0	1	1	1	0	0	1	0	0	0	479.0	1	349	0	0	0	0	0	0	0	0	0
+mercedes-benz-eqb-300-4matic	0	0	0	1	1	1	0	0	0	0	0	1		1	340	0	0	0	0	0	0	0	0	0
+mercedes-benz-eqb-300-4matic	0	0	0	1	1	1	0	0	0	0	1	0		1	340	0	0	0	0	0	0	0	0	0
+mercedes-benz-eqb-300-4matic	0	0	0	1	1	1	0	0	0	1	0	0		1	340	0	0	0	0	0	0	0	0	0
+mercedes-benz-eqb-300-4matic	0	0	0	1	1	1	0	0	1	0	0	0		1	340	0	0	0	0	0	0	0	0	0
+mercedes-benz-eqb-350-4matic	0	0	0	1	1	1	0	0	0	0	0	1		1	340	0	0	0	0	0	0	0	0	0
+mercedes-benz-eqb-350-4matic	0	0	0	1	1	1	0	0	0	0	1	0		1	340	0	0	0	0	0	0	0	0	0
+mercedes-benz-eqb-350-4matic	0	0	0	1	1	1	0	0	0	1	0	0		1	340	0	0	0	0	0	0	0	0	0
+mercedes-benz-eqb-350-4matic	0	0	0	1	1	1	0	0	1	0	0	0		1	340	0	0	0	0	0	0	0	0	0
+Mercedes-Benz-EQC-400-4MATIC	0	1	1	0	1	1	0	0	0	0	0	1	625.0	1	330	0	0	0	0	0	0	0	0	0
+Mercedes-Benz-EQC-400-4MATIC	0	1	1	0	1	1	0	0	0	0	1	0	625.0	1	330	0	0	0	0	0	0	0	0	0
+Mercedes-Benz-EQC-400-4MATIC	0	1	1	0	1	1	0	0	0	1	0	0	625.0	1	330	0	0	0	0	0	0	0	0	0
+Mercedes-Benz-EQC-400-4MATIC	0	1	1	0	1	1	0	0	1	0	0	0	625.0	1	330	0	0	0	0	0	0	0	0	0
+Mercedes-Benz-EQC-400-4MATIC	0	1	1	0	1	1	1	0	0	0	0	0	625.0	1	330	0	0	0	0	0	0	0	0	0
+mercedes-benz-eqs-350	0	1	1	0	1	1	0	0	0	0	0	1	899.0	1	479	0	0	0	0	0	0	0	0	0
+mercedes-benz-eqs-350	0	1	1	0	1	1	0	0	1	0	0	0	899.0	1	479	0	0	0	0	0	0	0	0	0
+mercedes-benz-eqs-450-4matic	0	1	1	0	1	1	0	0	0	0	0	1		1	534	0	0	0	0	0	0	0	0	0
+mercedes-benz-eqs-450-4matic	0	1	1	0	1	1	0	0	1	0	0	0		1	534	0	0	0	0	0	0	0	0	0
+mercedes-benz-eqs-450-4matic	0	1	1	0	1	1	0	1	0	0	0	0		1	534	0	0	0	0	0	0	0	0	0
+mercedes-benz-eqs-450plus	0	1	1	0	1	1	0	0	0	0	0	1		1	563	0	0	0	0	0	0	0	0	0
+mercedes-benz-eqs-450plus	0	1	1	0	1	1	0	0	1	0	0	0		1	563	0	0	0	0	0	0	0	0	0
+mercedes-benz-eqs-500-4matic	0	1	1	0	1	1	0	0	0	0	0	1		1	534	0	0	0	0	0	0	0	0	0
+mercedes-benz-eqs-500-4matic	0	1	1	0	1	1	0	0	1	0	0	0		1	534	0	0	0	0	0	0	0	0	0
+mercedes-benz-eqs-500-4matic	0	1	1	0	1	1	0	1	0	0	0	0		1	534	0	0	0	0	0	0	0	0	0
+mercedes-benz-eqs-580-4matic	0	1	1	0	1	1	0	0	0	0	0	1		1	575	0	0	0	0	0	0	0	0	0
+mercedes-benz-eqs-580-4matic	0	1	1	0	1	1	0	0	1	0	0	0		1	575	0	0	0	0	0	0	0	0	0
+mercedes-benz-eqs-580-4matic	0	1	1	0	1	1	0	1	0	0	0	0		1	575	0	0	0	0	0	0	0	0	0
+mercedes-benz-eqs-suv-450-4matic	0	0	0	1	1	1	0	0	0	0	0	1		1	488	0	0	0	0	0	0	0	0	0
+mercedes-benz-eqs-suv-450-4matic	0	0	0	1	1	1	0	0	0	0	1	0		1	488	0	0	0	0	0	0	0	0	0
+mercedes-benz-eqs-suv-450-4matic	0	0	0	1	1	1	0	0	0	1	0	0		1	488	0	0	0	0	0	0	0	0	0
+mercedes-benz-eqs-suv-450-4matic	0	0	0	1	1	1	0	0	1	0	0	0		1	488	0	0	0	0	0	0	0	0	0
+mercedes-benz-eqs-suv-450plus	0	0	0	1	1	1	0	0	0	0	0	1		1	536	0	0	0	0	0	0	0	0	0
+mercedes-benz-eqs-suv-450plus	0	0	0	1	1	1	0	0	0	0	1	0		1	536	0	0	0	0	0	0	0	0	0
+mercedes-benz-eqs-suv-450plus	0	0	0	1	1	1	0	0	0	1	0	0		1	536	0	0	0	0	0	0	0	0	0
+mercedes-benz-eqs-suv-450plus	0	0	0	1	1	1	0	0	1	0	0	0		1	536	0	0	0	0	0	0	0	0	0
+mercedes-benz-eqs-suv-580-4matic	0	0	0	1	1	1	0	0	0	0	0	1		1	487	0	0	0	0	0	0	0	0	0
+mercedes-benz-eqs-suv-580-4matic	0	0	0	1	1	1	0	0	0	0	1	0		1	487	0	0	0	0	0	0	0	0	0
+mercedes-benz-eqs-suv-580-4matic	0	0	0	1	1	1	0	0	0	1	0	0		1	487	0	0	0	0	0	0	0	0	0
+mercedes-benz-eqs-suv-580-4matic	0	0	0	1	1	1	0	0	1	0	0	0		1	487	0	0	0	0	0	0	0	0	0
+mercedes-benz-eqs-suv-580-4matic	0	0	0	1	1	1	0	1	0	0	0	0		1	487	0	0	0	0	0	0	0	0	0
+mercedes-eqe-350	0	1	1	0	1	1	0	0	0	0	0	1		1	502	0	0	0	0	0	0	0	0	0
+mercedes-eqe-350	0	1	1	0	1	1	0	0	1	0	0	0		1	502	0	0	0	0	0	0	0	0	0
+mercedes-eqe-43-4matic	0	1	1	0	1	1	0	0	0	0	0	1		1	405	0	0	0	0	0	0	0	0	0
+mercedes-eqe-43-4matic	0	1	1	0	1	1	0	0	1	0	0	0		1	405	0	0	0	0	0	0	0	0	0
+mercedes-eqe-43-4matic	0	1	1	0	1	1	0	1	0	0	0	0		1	405	0	0	0	0	0	0	0	0	0
+mercedes-eqs-53-4matic-plus	0	1	1	0	1	1	0	0	0	0	0	1		1	438	0	0	0	0	0	0	0	0	0
+mercedes-eqs-53-4matic-plus	0	1	1	0	1	1	0	0	1	0	0	0		1	438	0	0	0	0	0	0	0	0	0
+mercedes-eqs-53-4matic-plus	0	1	1	0	1	1	0	1	0	0	0	0		1	438	0	0	0	0	0	0	0	0	0
+mercedes-eqv-300	0	0	0	1	1	1	0	0	0	1	0	0		1	296	0	0	0	0	0	0	0	0	0
+mercedes-eqv-300	0	0	0	1	1	1	0	0	1	0	0	0		1	296	0	0	0	0	0	0	0	0	0
+mg-mg5-maximale-reichweite	0	1	1	0	1	1	0	0	0	1	0	0		1	320	0	0	0	0	0	0	0	0	0
+mg-mg5-standard-reichweite	0	1	1	0	1	1	0	0	0	1	0	0		1	256	0	0	0	0	0	0	0	0	0
+Mini-Cooper-SE	0	1	0	0	0	0	0	1	0	0	0	0	309.0	1	177	0	0	0	0	0	0	0	0	0
+Mini-Cooper-SE	0	1	0	0	0	0	1	0	0	0	0	0	309.0	1	177	0	0	0	0	0	0	0	0	0
+Nissan-Leaf-e-plus-60kWh	0	1	1	0	1	0	0	0	0	1	0	0		1	364	0	0	0	0	0	0	0	0	0
+Nissan-Leaf-e-plus-60kWh	0	1	1	0	1	0	1	0	0	0	0	0		1	364	0	0	0	0	0	0	0	0	0
+Nissan-Leaf-Standard-40kWh	0	1	1	0	1	0	0	0	0	1	0	0	269.0	1	242	0	0	0	0	0	0	0	0	0
+Nissan-Leaf-Standard-40kWh	0	1	1	0	1	0	1	0	0	0	0	0	269.0	1	242	0	0	0	0	0	0	0	0	0
+Opel-Corsa-E-Standard	0	1	1	0	1	1	0	1	0	0	0	0	279.0	1	305	0	0	0	0	0	0	0	0	0
+Opel-Corsa-E-Standard	0	1	1	0	1	1	1	0	0	0	0	0	279.0	1	305	0	0	0	0	0	0	0	0	0
+opel-mokka-e	0	1	1	0	1	1	0	0	0	0	1	0	229.0	1	287	0	0	0	0	0	0	0	0	0
+Peugeot-e-2008-standard	0	1	1	0	1	1	0	0	0	0	1	0	337.0	1	291	0	0	0	0	0	0	0	0	0
+Peugeot-e-2008-standard	0	1	1	0	1	1	0	0	0	1	0	0	337.0	1	291	0	0	0	0	0	0	0	0	0
+Peugeot-e-208	0	1	1	0	1	1	0	1	0	0	0	0	335.0	1	308	0	0	0	0	0	0	0	0	0
+Peugeot-e-208	0	1	1	0	1	1	1	0	0	0	0	0	335.0	1	308	0	0	0	0	0	0	0	0	0
+polestar-2-long-range-dual-motor	0	1	1	0	1	1	0	0	0	0	0	1	624.0	1	400	0	0	0	0	0	0	0	0	0
+polestar-2-long-range-dual-motor	0	1	1	0	1	1	0	0	0	0	1	0	624.0	1	400	0	0	0	0	0	0	0	0	0
+polestar-2-long-range-dual-motor	0	1	1	0	1	1	0	0	1	0	0	0	624.0	1	400	0	0	0	0	0	0	0	0	0
+polestar-2-long-range-dual-motor	0	1	1	0	1	1	0	1	0	0	0	0	624.0	1	400	0	0	0	0	0	0	0	0	0
+polestar-2-long-range-single-motor	0	1	1	0	1	1	0	0	0	0	0	1	623.0	1	434	0	0	0	0	0	0	0	0	0
+polestar-2-long-range-single-motor	0	1	1	0	1	1	0	0	0	0	1	0	623.0	1	434	0	0	0	0	0	0	0	0	0
+polestar-2-long-range-single-motor	0	1	1	0	1	1	0	0	1	0	0	0	623.0	1	434	0	0	0	0	0	0	0	0	0
+polestar-2-standard-range-single-motor	0	1	1	0	1	1	0	0	0	0	0	1		1	344	0	0	0	0	0	0	0	0	0
+polestar-2-standard-range-single-motor	0	1	1	0	1	1	0	0	0	0	1	0		1	344	0	0	0	0	0	0	0	0	0
+polestar-2-standard-range-single-motor	0	1	1	0	1	1	0	0	1	0	0	0		1	344	0	0	0	0	0	0	0	0	0
+polestar-2-standard-range-single-motor-2022	0	1	1	0	1	1	0	0	0	0	0	1	594.0	1	422	0	0	0	0	0	0	0	0	0
+polestar-2-standard-range-single-motor-2022	0	1	1	0	1	1	0	0	0	0	1	0	594.0	1	422	0	0	0	0	0	0	0	0	0
+polestar-2-standard-range-single-motor-2022	0	1	1	0	1	1	0	0	1	0	0	0	594.0	1	422	0	0	0	0	0	0	0	0	0
+porsche-taycan	0	1	1	0	1	1	0	0	0	0	0	1		1	322	0	0	0	0	0	0	0	0	0
+porsche-taycan	0	1	1	0	1	1	0	0	1	0	0	0		1	322	0	0	0	0	0	0	0	0	0
+porsche-taycan	0	1	1	0	1	1	0	1	0	0	0	0		1	322	0	0	0	0	0	0	0	0	0
+porsche-taycan-4-cross-turismo	0	1	1	0	1	1	0	0	0	0	0	1		1	342	0	0	0	0	0	0	0	0	0
+porsche-taycan-4-cross-turismo	0	1	1	0	1	1	0	0	1	0	0	0		1	342	0	0	0	0	0	0	0	0	0
+porsche-taycan-4-cross-turismo	0	1	1	0	1	1	0	1	0	0	0	0		1	342	0	0	0	0	0	0	0	0	0
+Porsche-Taycan-4S	0	1	1	0	1	1	0	0	0	0	0	1		1	304	0	0	0	0	0	0	0	0	0
+Porsche-Taycan-4S	0	1	1	0	1	1	0	0	1	0	0	0		1	304	0	0	0	0	0	0	0	0	0
+Porsche-Taycan-4S	0	1	1	0	1	1	0	1	0	0	0	0		1	304	0	0	0	0	0	0	0	0	0
+porsche-taycan-4s-cross-turismo	0	1	1	0	1	1	0	0	0	0	0	1		1	341	0	0	0	0	0	0	0	0	0
+porsche-taycan-4s-cross-turismo	0	1	1	0	1	1	0	0	1	0	0	0		1	341	0	0	0	0	0	0	0	0	0
+porsche-taycan-4s-cross-turismo	0	1	1	0	1	1	0	1	0	0	0	0		1	341	0	0	0	0	0	0	0	0	0
+Porsche-Taycan-4S-Performance-Batterie	0	1	1	0	1	1	0	0	0	0	0	1	1632.0	1	358	0	0	0	0	0	0	0	0	0
+Porsche-Taycan-4S-Performance-Batterie	0	1	1	0	1	1	0	0	1	0	0	0	1632.0	1	358	0	0	0	0	0	0	0	0	0
+Porsche-Taycan-4S-Performance-Batterie	0	1	1	0	1	1	0	1	0	0	0	0	1632.0	1	358	0	0	0	0	0	0	0	0	0
+porsche-taycan-gts	0	1	1	0	1	1	0	0	0	0	0	1		1	399	0	0	0	0	0	0	0	0	0
+porsche-taycan-gts	0	1	1	0	1	1	0	0	1	0	0	0		1	399	0	0	0	0	0	0	0	0	0
+porsche-taycan-gts	0	1	1	0	1	1	0	1	0	0	0	0		1	399	0	0	0	0	0	0	0	0	0
+porsche-taycan-performance-batterie	0	1	1	0	1	1	0	0	0	0	0	1	1437.0	1	370	0	0	0	0	0	0	0	0	0
+porsche-taycan-performance-batterie	0	1	1	0	1	1	0	0	1	0	0	0	1437.0	1	370	0	0	0	0	0	0	0	0	0
+porsche-taycan-performance-batterie	0	1	1	0	1	1	0	1	0	0	0	0	1437.0	1	370	0	0	0	0	0	0	0	0	0
+Porsche-Taycan-Turbo	0	1	1	0	1	1	0	0	0	0	0	1		1	350	0	0	0	0	0	0	0	0	0
+Porsche-Taycan-Turbo	0	1	1	0	1	1	0	0	1	0	0	0		1	350	0	0	0	0	0	0	0	0	0
+Porsche-Taycan-Turbo	0	1	1	0	1	1	0	1	0	0	0	0		1	350	0	0	0	0	0	0	0	0	0
+porsche-taycan-turbo-cross-turismo	0	1	1	0	1	1	0	0	0	0	0	1		1	348	0	0	0	0	0	0	0	0	0
+porsche-taycan-turbo-cross-turismo	0	1	1	0	1	1	0	0	1	0	0	0		1	348	0	0	0	0	0	0	0	0	0
+porsche-taycan-turbo-cross-turismo	0	1	1	0	1	1	0	1	0	0	0	0		1	348	0	0	0	0	0	0	0	0	0
+Porsche-Taycan-turbo-S	0	1	1	0	1	1	0	0	0	0	0	1		1	345	0	0	0	0	0	0	0	0	0
+Porsche-Taycan-turbo-S	0	1	1	0	1	1	0	0	1	0	0	0		1	345	0	0	0	0	0	0	0	0	0
+Porsche-Taycan-turbo-S	0	1	1	0	1	1	0	1	0	0	0	0		1	345	0	0	0	0	0	0	0	0	0
+porsche-taycan-turbo-s-cross-turismo	0	1	1	0	1	1	0	0	0	0	0	1		1	341	0	0	0	0	0	0	0	0	0
+porsche-taycan-turbo-s-cross-turismo	0	1	1	0	1	1	0	0	1	0	0	0		1	341	0	0	0	0	0	0	0	0	0
+porsche-taycan-turbo-s-cross-turismo	0	1	1	0	1	1	0	1	0	0	0	0		1	341	0	0	0	0	0	0	0	0	0
+renault-megane-e-tech-electric-ev40-130hp	0	1	1	0	1	1	0	0	0	0	1	0	279.0	1	240	0	0	0	0	0	0	0	0	0
+renault-megane-e-tech-electric-ev40-130hp	0	1	1	0	1	1	1	0	0	0	0	0	279.0	1	240	0	0	0	0	0	0	0	0	0
+renault-megane-e-tech-electric-ev60-130hp	0	1	1	0	1	1	0	0	0	0	0	1		1	376	0	0	0	0	0	0	0	0	0
+renault-megane-e-tech-electric-ev60-130hp	0	1	1	0	1	1	0	0	0	0	1	0		1	376	0	0	0	0	0	0	0	0	0
+renault-megane-e-tech-electric-ev60-130hp	0	1	1	0	1	1	1	0	0	0	0	0		1	376	0	0	0	0	0	0	0	0	0
+Renault-twingo-electric-vibes	0	1	0	0	0	0	1	0	0	0	0	0	179.0	1	171	0	0	0	0	0	0	0	0	0
+Renault-Zoe-ZE-40-R110	0	1	1	0	1	1	1	0	0	0	0	0		1	284	0	0	0	0	0	0	0	0	0
+Renault-Zoe-ZE-50-R110	0	1	1	0	1	1	1	0	0	0	0	0	311.0	1	356	0	0	0	0	0	0	0	0	0
+Renault-Zoe-ZE-50-R135	0	1	1	0	1	1	0	1	0	0	0	0		1	347	0	0	0	0	0	0	0	0	0
+Renault-Zoe-ZE-50-R135	0	1	1	0	1	1	1	0	0	0	0	0		1	347	0	0	0	0	0	0	0	0	0
+Seat-Mii-electric-Standard	0	1	0	0	1	0	1	0	0	0	0	0		1	226	0	0	0	0	0	0	0	0	0
+Skoda-Citigo-e-iV-Standard	0	1	0	0	1	0	1	0	0	0	0	0		1	224	0	0	0	0	0	0	0	0	0
+skoda-enyaq-coupe-iv-rs	0	1	1	0	1	1	0	0	0	0	0	1		1	409	0	0	0	0	0	0	0	0	0
+skoda-enyaq-coupe-iv-rs	0	1	1	0	1	1	0	0	0	0	1	0		1	409	0	0	0	0	0	0	0	0	0
+skoda-enyaq-coupe-iv-rs	0	1	1	0	1	1	0	0	0	1	0	0		1	409	0	0	0	0	0	0	0	0	0
+skoda-enyaq-coupe-iv-rs	0	1	1	0	1	1	0	1	0	0	0	0		1	409	0	0	0	0	0	0	0	0	0
+skoda-enyaq-iv-50	0	1	1	0	1	1	0	0	0	0	1	0		1	290	0	0	0	0	0	0	0	0	0
+skoda-enyaq-iv-50	0	1	1	0	1	1	0	0	0	1	0	0		1	290	0	0	0	0	0	0	0	0	0
+skoda-enyaq-iv-60	0	1	1	0	1	1	0	0	0	0	1	0		1	329	0	0	0	0	0	0	0	0	0
+skoda-enyaq-iv-60	0	1	1	0	1	1	0	0	0	1	0	0		1	329	0	0	0	0	0	0	0	0	0
+skoda-enyaq-iv-80	0	1	1	0	1	1	0	0	0	0	0	1		1	433	0	0	0	0	0	0	0	0	0
+skoda-enyaq-iv-80	0	1	1	0	1	1	0	0	0	0	1	0		1	433	0	0	0	0	0	0	0	0	0
+skoda-enyaq-iv-80	0	1	1	0	1	1	0	0	0	1	0	0		1	433	0	0	0	0	0	0	0	0	0
+skoda-enyaq-iv-80x	0	1	1	0	1	1	0	0	0	0	0	1		1	397	0	0	0	0	0	0	0	0	0
+skoda-enyaq-iv-80x	0	1	1	0	1	1	0	0	0	0	1	0		1	397	0	0	0	0	0	0	0	0	0
+skoda-enyaq-iv-80x	0	1	1	0	1	1	0	0	0	1	0	0		1	397	0	0	0	0	0	0	0	0	0
+Smart-EQ-forfour	0	1	0	0	0	0	1	0	0	0	0	0		0	97	0	0	0	0	0	0	0	0	0
+Smart-EQ-fortwo-Cabrio	1	0	0	0	1	0	1	0	0	0	0	0	189.0	1	111	0	0	0	0	0	0	0	0	0
+Smart-EQ-fortwo-coupe	1	0	0	0	1	1	1	0	0	0	0	0	199.0	1	114	0	0	0	0	0	0	0	0	0
+tesla-model-3-hinterradantrieb	0	1	1	0	1	1	0	0	0	0	0	1	613.0	1	442	0	0	0	0	0	0	0	0	0
+tesla-model-3-hinterradantrieb	0	1	1	0	1	1	0	0	1	0	0	0	613.0	1	442	0	0	0	0	0	0	0	0	0
+Tesla-Model-3-Maximale-Reichweite	0	1	1	0	1	1	0	0	0	0	0	1	756.0	1	568	0	0	0	0	0	0	0	0	0
+Tesla-Model-3-Maximale-Reichweite	0	1	1	0	1	1	0	0	1	0	0	0	756.0	1	568	0	0	0	0	0	0	0	0	0
+Tesla-Model-3-Maximale-Reichweite	0	1	1	0	1	1	0	1	0	0	0	0	756.0	1	568	0	0	0	0	0	0	0	0	0
+Tesla-Model-3-Performance	0	1	1	0	1	1	0	0	0	0	0	1	817.0	1	507	0	0	0	0	0	0	0	0	0
+Tesla-Model-3-Performance	0	1	1	0	1	1	0	0	1	0	0	0	817.0	1	507	0	0	0	0	0	0	0	0	0
+Tesla-Model-3-Performance	0	1	1	0	1	1	0	1	0	0	0	0	817.0	1	507	0	0	0	0	0	0	0	0	0
+Tesla-Model-3-Standard-Reichweite-Plus	0	1	1	0	1	1	0	0	0	0	0	1		1	423	0	0	0	0	0	0	0	0	0
+Tesla-Model-3-Standard-Reichweite-Plus	0	1	1	0	1	1	0	1	0	0	0	0		1	423	0	0	0	0	0	0	0	0	0
+Tesla-Model-S-Maximale-Reichweite	0	1	1	0	1	1	0	0	0	0	0	1		1	647	0	0	0	0	0	0	0	0	0
+Tesla-Model-S-Maximale-Reichweite	0	1	1	0	1	1	0	0	1	0	0	0		1	647	0	0	0	0	0	0	0	0	0
+Tesla-Model-S-Maximale-Reichweite	0	1	1	0	1	1	0	1	0	0	0	0		1	647	0	0	0	0	0	0	0	0	0
+Tesla-Model-S-Performance	0	1	1	0	1	1	0	0	0	0	0	1		1	623	0	0	0	0	0	0	0	0	0
+Tesla-Model-S-Performance	0	1	1	0	1	1	0	0	1	0	0	0		1	623	0	0	0	0	0	0	0	0	0
+Tesla-Model-S-Performance	0	1	1	0	1	1	0	1	0	0	0	0		1	623	0	0	0	0	0	0	0	0	0
+tesla-model-s-plaid	0	1	1	0	1	1	0	0	0	0	0	1		1	627	0	0	0	0	0	0	0	0	0
+tesla-model-s-plaid	0	1	1	0	1	1	0	0	1	0	0	0		1	627	0	0	0	0	0	0	0	0	0
+tesla-model-s-plaid	0	1	1	0	1	1	0	1	0	0	0	0		1	627	0	0	0	0	0	0	0	0	0
+tesla-model-s-plaid-plus	0	1	1	0	1	1	0	0	0	0	0	1		1	837	0	0	0	0	0	0	0	0	0
+tesla-model-s-plaid-plus	0	1	1	0	1	1	0	0	1	0	0	0		1	837	0	0	0	0	0	0	0	0	0
+tesla-model-s-plaid-plus	0	1	1	0	1	1	0	1	0	0	0	0		1	837	0	0	0	0	0	0	0	0	0
+Tesla-Model-X-Maximale-Reichweite	0	0	0	1	1	1	0	0	0	0	0	1		1	579	0	0	0	0	0	0	0	0	0
+Tesla-Model-X-Maximale-Reichweite	0	0	0	1	1	1	0	0	0	0	1	0		1	579	0	0	0	0	0	0	0	0	0
+Tesla-Model-X-Maximale-Reichweite	0	0	0	1	1	1	0	0	0	1	0	0		1	579	0	0	0	0	0	0	0	0	0
+Tesla-Model-X-Maximale-Reichweite	0	0	0	1	1	1	0	0	1	0	0	0		1	579	0	0	0	0	0	0	0	0	0
+Tesla-Model-X-Maximale-Reichweite	0	0	0	1	1	1	0	1	0	0	0	0		1	579	0	0	0	0	0	0	0	0	0
+Tesla-Model-X-Performance	0	0	0	1	1	1	0	0	0	0	0	1		1	549	0	0	0	0	0	0	0	0	0
+Tesla-Model-X-Performance	0	0	0	1	1	1	0	0	0	0	1	0		1	549	0	0	0	0	0	0	0	0	0
+Tesla-Model-X-Performance	0	0	0	1	1	1	0	0	0	1	0	0		1	549	0	0	0	0	0	0	0	0	0
+Tesla-Model-X-Performance	0	0	0	1	1	1	0	0	1	0	0	0		1	549	0	0	0	0	0	0	0	0	0
+Tesla-Model-X-Performance	0	0	0	1	1	1	0	1	0	0	0	0		1	549	0	0	0	0	0	0	0	0	0
+tesla-model-x-plaid	0	0	0	1	1	1	0	0	0	0	0	1		1	547	0	0	0	0	0	0	0	0	0
+tesla-model-x-plaid	0	0	0	1	1	1	0	0	0	0	1	0		1	547	0	0	0	0	0	0	0	0	0
+tesla-model-x-plaid	0	0	0	1	1	1	0	0	0	1	0	0		1	547	0	0	0	0	0	0	0	0	0
+tesla-model-x-plaid	0	0	0	1	1	1	0	0	1	0	0	0		1	547	0	0	0	0	0	0	0	0	0
+tesla-model-x-plaid	0	0	0	1	1	1	0	1	0	0	0	0		1	547	0	0	0	0	0	0	0	0	0
+tesla-model-y-maximale-reichweite	0	0	0	1	1	1	0	0	0	0	0	1	719.0	1	507	0	0	0	0	0	0	0	0	0
+tesla-model-y-maximale-reichweite	0	0	0	1	1	1	0	0	0	0	1	0	719.0	1	507	0	0	0	0	0	0	0	0	0
+tesla-model-y-maximale-reichweite	0	0	0	1	1	1	0	0	0	1	0	0	719.0	1	507	0	0	0	0	0	0	0	0	0
+tesla-model-y-maximale-reichweite	0	0	0	1	1	1	0	0	1	0	0	0	719.0	1	507	0	0	0	0	0	0	0	0	0
+tesla-model-y-maximale-reichweite	0	0	0	1	1	1	0	1	0	0	0	0	719.0	1	507	0	0	0	0	0	0	0	0	0
+tesla-model-y-performance	0	0	0	1	1	1	0	0	0	0	0	1	718.0	1	480	0	0	0	0	0	0	0	0	0
+tesla-model-y-performance	0	0	0	1	1	1	0	0	0	0	1	0	718.0	1	480	0	0	0	0	0	0	0	0	0
+tesla-model-y-performance	0	0	0	1	1	1	0	0	0	1	0	0	718.0	1	480	0	0	0	0	0	0	0	0	0
+tesla-model-y-performance	0	0	0	1	1	1	0	0	1	0	0	0	718.0	1	480	0	0	0	0	0	0	0	0	0
+tesla-model-y-performance	0	0	0	1	1	1	0	1	0	0	0	0	718.0	1	480	0	0	0	0	0	0	0	0	0
+toyota-bz4x-awd	0	1	1	0	1	1	0	0	0	0	0	1		1	336	0	0	0	0	0	0	0	0	0
+toyota-bz4x-awd	0	1	1	0	1	1	0	0	0	0	1	0		1	336	0	0	0	0	0	0	0	0	0
+toyota-bz4x-awd	0	1	1	0	1	1	0	0	0	1	0	0		1	336	0	0	0	0	0	0	0	0	0
+toyota-bz4x-fwd	0	1	1	0	1	1	0	0	0	0	0	1		1	369	0	0	0	0	0	0	0	0	0
+toyota-bz4x-fwd	0	1	1	0	1	1	0	0	0	0	1	0		1	369	0	0	0	0	0	0	0	0	0
+toyota-bz4x-fwd	0	1	1	0	1	1	0	0	0	1	0	0		1	369	0	0	0	0	0	0	0	0	0
+volvo-c40-recharge-pure-electric	0	1	1	0	1	1	0	0	0	0	0	1		1	364	0	0	0	0	0	0	0	0	0
+volvo-c40-recharge-pure-electric	0	1	1	0	1	1	0	0	0	0	1	0		1	364	0	0	0	0	0	0	0	0	0
+volvo-c40-recharge-pure-electric	0	1	1	0	1	1	0	0	1	0	0	0		1	364	0	0	0	0	0	0	0	0	0
+volvo-c40-recharge-pure-electric-p8	0	1	1	0	1	1	0	0	0	0	0	1		1	363	0	0	0	0	0	0	0	0	0
+volvo-c40-recharge-pure-electric-p8	0	1	1	0	1	1	0	0	0	0	1	0		1	363	0	0	0	0	0	0	0	0	0
+volvo-c40-recharge-pure-electric-p8	0	1	1	0	1	1	0	0	1	0	0	0		1	363	0	0	0	0	0	0	0	0	0
+volvo-c40-recharge-pure-electric-p8	0	1	1	0	1	1	0	1	0	0	0	0		1	363	0	0	0	0	0	0	0	0	0
+VW-e-Golf-Standard	0	1	1	0	1	0	1	0	0	0	0	0		1	198	0	0	0	0	0	0	0	0	0
+VW-e-up-Standard	0	1	0	0	1	0	1	0	0	0	0	0		1	225	0	0	0	0	0	0	0	0	0
+vw-id3-pro	0	1	1	0	1	1	0	0	0	0	0	1		1	357	0	0	0	0	0	0	0	0	0
+vw-id3-pro	0	1	1	0	1	1	0	0	0	0	1	0		1	357	0	0	0	0	0	0	0	0	0
+vw-id3-pro-performance	0	1	1	0	1	1	0	0	0	0	0	1	292.0	1	357	0	0	0	0	0	0	0	0	0
+vw-id3-pro-performance	0	1	1	0	1	1	0	0	0	0	1	0	292.0	1	357	0	0	0	0	0	0	0	0	0
+vw-id3-pro-s	0	1	1	0	1	1	0	0	0	0	0	1	350.0	1	424	0	0	0	0	0	0	0	0	0
+vw-id3-pro-s	0	1	1	0	1	1	0	0	0	0	1	0	350.0	1	424	0	0	0	0	0	0	0	0	0
+vw-id3-pro-s	0	1	1	0	1	1	0	1	0	0	0	0	350.0	1	424	0	0	0	0	0	0	0	0	0
+vw-id3-pure-performance	0	1	1	0	1	1	0	0	0	0	1	0		1	270	0	0	0	0	0	0	0	0	0
+vw-id3-pure-performance	0	1	1	0	1	1	1	0	0	0	0	0		1	270	0	0	0	0	0	0	0	0	0
+VW-ID4-GTX	0	1	1	0	1	1	0	0	0	0	0	1	591.0	1	370	0	0	0	0	0	0	0	0	0
+VW-ID4-GTX	0	1	1	0	1	1	0	0	0	0	1	0	591.0	1	370	0	0	0	0	0	0	0	0	0
+VW-ID4-GTX	0	1	1	0	1	1	0	0	0	1	0	0	591.0	1	370	0	0	0	0	0	0	0	0	0
+VW-ID4-GTX	0	1	1	0	1	1	0	1	0	0	0	0	591.0	1	370	0	0	0	0	0	0	0	0	0
+vw-id4-pro-4motion	0	1	1	0	1	1	0	0	0	0	0	1		1	398	0	0	0	0	0	0	0	0	0
+vw-id4-pro-4motion	0	1	1	0	1	1	0	0	0	0	1	0		1	398	0	0	0	0	0	0	0	0	0
+vw-id4-pro-4motion	0	1	1	0	1	1	0	0	0	1	0	0		1	398	0	0	0	0	0	0	0	0	0
+VW-ID4-pro-performance	0	1	1	0	1	1	0	0	0	0	0	1	466.0	1	402	0	0	0	0	0	0	0	0	0
+VW-ID4-pro-performance	0	1	1	0	1	1	0	0	0	0	1	0	466.0	1	402	0	0	0	0	0	0	0	0	0
+VW-ID4-pro-performance	0	1	1	0	1	1	0	0	0	1	0	0	466.0	1	402	0	0	0	0	0	0	0	0	0
+VW-ID4-pure	0	1	1	0	1	1	0	0	0	0	0	1		1	266	0	0	0	0	0	0	0	0	0
+VW-ID4-pure	0	1	1	0	1	1	0	0	0	0	1	0		1	266	0	0	0	0	0	0	0	0	0
+VW-ID4-pure	0	1	1	0	1	1	0	0	0	1	0	0		1	266	0	0	0	0	0	0	0	0	0
+VW-ID4-pure-performance	0	1	1	0	1	1	0	0	0	0	0	1		1	266	0	0	0	0	0	0	0	0	0
+VW-ID4-pure-performance	0	1	1	0	1	1	0	0	0	0	1	0		1	266	0	0	0	0	0	0	0	0	0
+VW-ID4-pure-performance	0	1	1	0	1	1	0	0	0	1	0	0		1	266	0	0	0	0	0	0	0	0	0
+vw-id5-gtx	0	1	1	0	1	1	0	0	0	0	0	1	534.0	1	380	0	0	0	0	0	0	0	0	0
+vw-id5-gtx	0	1	1	0	1	1	0	0	0	0	1	0	534.0	1	380	0	0	0	0	0	0	0	0	0
+vw-id5-gtx	0	1	1	0	1	1	0	1	0	0	0	0	534.0	1	380	0	0	0	0	0	0	0	0	0
+vw-id5-pro	0	1	1	0	1	1	0	0	0	0	0	1	419.0	1	401	0	0	0	0	0	0	0	0	0
+vw-id5-pro	0	1	1	0	1	1	0	0	0	0	1	0	419.0	1	401	0	0	0	0	0	0	0	0	0
+vw-id5-pro	0	1	1	0	1	1	0	0	0	1	0	0	419.0	1	401	0	0	0	0	0	0	0	0	0
+vw-id5-pro-performance	0	1	1	0	1	1	0	0	0	0	0	1		1	401	0	0	0	0	0	0	0	0	0
+vw-id5-pro-performance	0	1	1	0	1	1	0	0	0	0	1	0		1	401	0	0	0	0	0	0	0	0	0
+vw-id5-pro-performance	0	1	1	0	1	1	0	0	0	1	0	0		1	401	0	0	0	0	0	0	0	0	0
+vw-idbuzz-pro-performance	0	1	1	0	1	1	0	0	0	0	0	1	684.0	1	385	0	0	0	0	0	0	0	0	0
+vw-idbuzz-pro-performance	0	1	1	0	1	1	0	0	0	0	1	0	684.0	1	385	0	0	0	0	0	0	0	0	0
+vw-idbuzz-pro-performance	0	1	1	0	1	1	0	0	0	1	0	0	684.0	1	385	0	0	0	0	0	0	0	0	0
+XC40-Recharge-pure-electric	0	1	1	0	1	1	0	0	0	0	0	1		1	360	0	0	0	0	0	0	0	0	0
+XC40-Recharge-pure-electric	0	1	1	0	1	1	0	0	0	0	1	0		1	360	0	0	0	0	0	0	0	0	0
+XC40-Recharge-pure-electric	0	1	1	0	1	1	0	0	1	0	0	0		1	360	0	0	0	0	0	0	0	0	0
+XC40-recharge-pure-electric-twin	0	1	1	0	1	1	0	0	0	0	0	1		1	358	0	0	0	0	0	0	0	0	0
+XC40-recharge-pure-electric-twin	0	1	1	0	1	1	0	0	0	0	1	0		1	358	0	0	0	0	0	0	0	0	0
+XC40-recharge-pure-electric-twin	0	1	1	0	1	1	0	0	1	0	0	0		1	358	0	0	0	0	0	0	0	0	0
+XC40-recharge-pure-electric-twin	0	1	1	0	1	1	0	1	0	0	0	0		1	358	0	0	0	0	0	0	0	0	0
