@@ -1,8 +1,16 @@
 import numpy as np
+import pandas
 import pandas as pd
 from scipy.spatial.distance import pdist, squareform
-from sklearn import preprocessing
+from sklearn.pipeline import make_pipeline, Pipeline
+from sklearn.preprocessing import OneHotEncoder, StandardScaler, MultiLabelBinarizer, LabelBinarizer
+from sklearn.feature_extraction.text import _VectorizerMixin
+from sklearn.feature_selection._base import SelectorMixin
+from sklearn.compose import ColumnTransformer
 from sklearn.metrics import jaccard_score
+
+pd.options.display.width = None
+pd.options.display.max_columns = None
 
 
 def jaccard_distance_dataframe(
@@ -103,36 +111,102 @@ def k_nearest_neighbors_dataframe(
     pass
 
 
+def has_list(x):
+    return any(isinstance(i, list) for i in x)
+
+def get_feature_out(estimator, feature_in):
+    if hasattr(estimator,'get_feature_names'):
+        if isinstance(estimator, _VectorizerMixin):
+            # handling all vectorizers
+            return [f'vec_{f}' \
+                    for f in estimator.get_feature_names_out()]
+        else:
+            return estimator.get_feature_names_out(feature_in)
+    elif isinstance(estimator, SelectorMixin):
+        return np.array(feature_in)[estimator.get_support()]
+    else:
+        return feature_in
+
+
+def get_ct_feature_names(ct):
+    # handles all estimators, pipelines inside ColumnTransfomer
+    # doesn't work when remainder =='passthrough'
+    # which requires the input column names.
+    output_features = []
+
+    for name, estimator, features in ct.transformers_:
+        if name!='remainder':
+            if isinstance(estimator, Pipeline):
+                current_features = features
+                for step in estimator:
+                    current_features = get_feature_out(step, current_features)
+                features_out = current_features
+            else:
+                features_out = get_feature_out(estimator, features)
+            output_features.extend(features_out)
+        elif estimator == 'passthrough':
+            output_features.extend(ct._feature_names_in[features])
+
+    return output_features
+
+
 def similarity_matrix_continuous_categorical(
         dataset: pd.DataFrame,
-        categorical=None,
-        continuous=None,
+        categorical: list = None,
+        continuous: list = None,
+        no_scaling: list = None,
+        algorithm: str = "euclidean",
         algorithm_categorical: str = "jaccard",
         algorithm_continuous: str = "euclidean",
+        weights: dict = None,
 ):
-    categorical = categorical if categorical else []
     continuous = continuous if continuous else []
+    no_scaling = no_scaling if no_scaling else []
 
-    # get all categorical data
     categorical_data = dataset[categorical]
-    # extract the binaries as they do not need to be converted
-    binaries = categorical_data.loc[:, categorical_data.isin([0, 1]).all()].columns
-    categorical_df = pd.get_dummies(data=categorical_data, columns=[x for x in categorical if x not in binaries])
-    distances = pdist(categorical_df.values, metric=algorithm_categorical)
-    # Convert the distances to a square matrix
-    similarity_array = squareform(distances)
+    binaries = list(categorical_data.loc[:, categorical_data.isin([0, 1]).all()].columns) if categorical else []
+    categorical = [x for x in categorical if x not in binaries]
 
-    # Wrap the array in a pandas DataFrame
-    binary_similarity_df = pd.DataFrame(similarity_array, index=dataset.index, columns=dataset.index)
+    transformers = [
+        ("continuous", StandardScaler(), continuous),
+        ("categorical", OneHotEncoder(), categorical),
+        ("binaries", "passthrough", binaries),
+        ("no_scaling", "passthrough", no_scaling),
+    ]
 
-    continuous_df = dataset[continuous]
-    continuous_values = continuous_df.values  # returns a numpy array
-    min_max_scaler = preprocessing.StandardScaler()
-    continuous_scaled = min_max_scaler.fit_transform(continuous_values)
-    continuous_df_scaled = pd.DataFrame(continuous_scaled)
-    print(continuous_df_scaled)
-    continuous_distances = pdist(continuous_df_scaled.values, metric=algorithm_continuous)
-    similarity_array_continuous = squareform(continuous_distances)
-    continuous_similarity_df = pd.DataFrame(similarity_array_continuous, index=dataset.index, columns=dataset.index)
-    print(continuous_similarity_df)
+    column_trans = ColumnTransformer(
+        transformers,
+        remainder="drop"
+    )
+
+    transformed_data = pd.DataFrame(
+        column_trans.fit_transform(dataset),
+        index=dataset.index,
+        columns=get_ct_feature_names(column_trans)
+    ).astype(float)
+    weights_df = pd.concat([transformed_data, pd.DataFrame(weights, index=["weights"])], sort=False)
+    weights_df.loc["weights"] = weights_df.loc["weights"].fillna(1)
+    adjusted_weights = weights_df.loc["weights"].astype(int)
+    distances = pdist(transformed_data.values, metric=algorithm, w=adjusted_weights)
+    return pd.DataFrame(squareform(distances), index=dataset.index, columns=dataset.index)
+    # print(df)
+    # # get all categorical data
+    #
+    # categorical_df = pd.get_dummies(data=categorical_data, columns=[x for x in categorical if x not in binaries])
+    # data_df = categorical_df.join(binaries)
+    # distances = pdist(categorical_df.values, metric=algorithm_categorical)
+    # # Convert the distances to a square matrix
+    # similarity_array = squareform(distances)
+    #
+    # # Wrap the array in a pandas DataFrame
+    # binary_similarity_df = pd.DataFrame(similarity_array, index=dataset.index, columns=dataset.index)
+    #
+    # continuous_df = dataset[continuous]
+    # continuous_values = continuous_df.values  # returns a numpy array
+    # min_max_scaler = preprocessing.StandardScaler()
+    # continuous_scaled = min_max_scaler.fit_transform(continuous_values)
+    # continuous_df_scaled = pd.DataFrame(continuous_scaled)
+    # continuous_distances = pdist(continuous_df_scaled.values, metric=algorithm_continuous)
+    # similarity_array_continuous = squareform(continuous_distances)
+    # continuous_similarity_df = pd.DataFrame(similarity_array_continuous, index=dataset.index, columns=dataset.index)
     return continuous_similarity_df.add(binary_similarity_df)
